@@ -1,17 +1,53 @@
-# smart_habit_tracker
+# 🚀 Smart Habit Tracker App (Flutter)
 
-A new Flutter project.
+A simple and beginner-friendly Flutter app that helps users build and track daily habits.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ Add new habits
+- 📋 Display habits in a clean list
+- ☑️ Mark habits as completed using checkbox
+- 🔥 Real-time progress tracking
+- 🗑️ Swipe to delete habits with confirmation dialog
+- 💬 Motivational messages on completion
+- 💾 Local storage using SharedPreferences (data saved even after app restart)
+- 🎨 Simple and clean UI
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 What I Learned
+
+While building this project, I learned:
+
+- Flutter Stateful Widgets and `setState`
+- Navigation using `Navigator.push` and `pop`
+- Text input handling with `TextEditingController`
+- Swipe actions using `Dismissible`
+- Dialog boxes using `AlertDialog`
+- Local storage using `SharedPreferences`
+- JSON encoding and decoding
+- Basic UI design using Flutter widgets
+
+---
+
+## 💡 Project Highlight
+
+This app saves habits locally, so even after closing the app, the data remains available — making it feel like a real production app.
+
+---
+
+## 🚀 Future Improvements
+
+- Habit streak tracking
+- Firebase integration
+- User login system
+- Animations and better UI improvements
+
+---
+
+## 👩‍💻 Author
+
+Made by a Flutter learner 💙  
+Still improving step by step 🚀
